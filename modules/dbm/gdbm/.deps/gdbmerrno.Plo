@@ -1,0 +1,5 @@
+gdbmerrno.lo: gdbmerrno.c /usr/include/stdc-predef.h gdbmerrno.h
+
+/usr/include/stdc-predef.h:
+
+gdbmerrno.h:

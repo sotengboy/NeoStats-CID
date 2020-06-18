@@ -1,0 +1,5 @@
+kqueue.lo: kqueue.c /usr/include/stdc-predef.h ../../include/config.h
+
+/usr/include/stdc-predef.h:
+
+../../include/config.h:
