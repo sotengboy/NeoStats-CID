@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" ?><dwsync><file name="update_help.c" server="103.56.206.73:69//home/server/" local="3299499026" remote="3299499026" Dst="-1" /><file name="update.h" server="103.56.206.73:69//home/server/" local="3299499026" remote="3299499026" Dst="-1" /><file name="Makefile.am" server="103.56.206.73:69//home/server/" local="3299499026" remote="3299499026" Dst="-1" /><file name="Makefile.in" server="103.56.206.73:69//home/server/" local="3299499026" remote="3299499026" Dst="-1" /><file name="update.c" server="103.56.206.73:69//home/server/" local="3674620670" remote="3674620670" Dst="-1" /><file name="Makefile" server="103.56.206.73:69//home/server/" local="3675118822" remote="3675118822" Dst="-1" /><file name="update.o" server="103.56.206.73:69//home/server/" local="3675348358" remote="3675348358" Dst="-1" /><file name="update.lo" server="103.56.206.73:69//home/server/" local="3675348358" remote="3675348358" Dst="-1" /><file name="update_help.o" server="103.56.206.73:69//home/server/" local="3675348358" remote="3675348358" Dst="-1" /><file name="update_help.lo" server="103.56.206.73:69//home/server/" local="3675348358" remote="3675348358" Dst="-1" /><file name="update.la" server="103.56.206.73:69//home/server/" local="3675348359" remote="3675348359" Dst="-1" /></dwsync>
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="update_help.c" server="103.56.206.73:69//home/server/" local="3299499026" remote="3299499026" Dst="-1" />
+<file name="update.h" server="103.56.206.73:69//home/server/" local="3299499026" remote="3299499026" Dst="-1" />
+<file name="Makefile.am" server="103.56.206.73:69//home/server/" local="3299499026" remote="3299499026" Dst="-1" />
+<file name="Makefile.in" server="103.56.206.73:69//home/server/" local="3299499026" remote="3299499026" Dst="-1" />
+<file name="update.c" server="103.56.206.73:69//home/server/" local="3674620670" remote="3674620670" Dst="-1" />
+<file name="Makefile" server="103.56.206.73:69//home/server/" local="3675118822" remote="3675118822" Dst="-1" />
+<file name="update.o" server="103.56.206.73:69//home/server/" local="3675348358" remote="3675348358" Dst="-1" />
+<file name="update.lo" server="103.56.206.73:69//home/server/" local="3675348358" remote="3675348358" Dst="-1" />
+<file name="update_help.o" server="103.56.206.73:69//home/server/" local="3675348358" remote="3675348358" Dst="-1" />
+<file name="update_help.lo" server="103.56.206.73:69//home/server/" local="3675348358" remote="3675348358" Dst="-1" />
+<file name="update.la" server="103.56.206.73:69//home/server/" local="3675348359" remote="3675348359" Dst="-1" />
+<file name="Makefile" server="103.56.206.73:69" local="132375422219459620" remote="132375423180000000" Dst="0" />
+<file name="Makefile.am" server="103.56.206.73:69" local="132375422219469637" remote="132375423180000000" Dst="0" />
+<file name="Makefile.in" server="103.56.206.73:69" local="132375422219479610" remote="132375423180000000" Dst="0" />
+<file name="update.c" server="103.56.206.73:69" local="132375422219499601" remote="132375423180000000" Dst="0" />
+<file name="update.h" server="103.56.206.73:69" local="132375422219509598" remote="132375423180000000" Dst="0" />
+<file name="update.la" server="103.56.206.73:69" local="132375422219519581" remote="132375423180000000" Dst="0" />
+<file name="update.lo" server="103.56.206.73:69" local="132375422219529589" remote="132375423180000000" Dst="0" />
+<file name="update.o" server="103.56.206.73:69" local="132375422219539572" remote="132375423180000000" Dst="0" />
+<file name="update_help.c" server="103.56.206.73:69" local="132375422219539572" remote="132375423180000000" Dst="0" />
+<file name="update_help.lo" server="103.56.206.73:69" local="132375422219549566" remote="132375423180000000" Dst="0" />
+<file name="update_help.o" server="103.56.206.73:69" local="132375422219559562" remote="132375423180000000" Dst="0" />
+</dwsync>

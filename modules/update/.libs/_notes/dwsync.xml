@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8" ?><dwsync><file name="update.o" server="103.56.206.73:69//home/server/" local="3675348358" remote="3675348358" Dst="-1" /><file name="update_help.o" server="103.56.206.73:69//home/server/" local="3675348358" remote="3675348358" Dst="-1" /><file name="update.so" server="103.56.206.73:69//home/server/" local="3675348359" remote="3675348359" Dst="-1" /><file name="update.a" server="103.56.206.73:69//home/server/" local="3675348359" remote="3675348359" Dst="-1" /><file name="update.lai" server="103.56.206.73:69//home/server/" local="3675348359" remote="3675348359" Dst="-1" /><file name="update.la" server="103.56.206.73:69//home/server/" local="3675348359" remote="3675348359" Dst="-1" /></dwsync>
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="update.o" server="103.56.206.73:69//home/server/" local="3675348358" remote="3675348358" Dst="-1" />
+<file name="update_help.o" server="103.56.206.73:69//home/server/" local="3675348358" remote="3675348358" Dst="-1" />
+<file name="update.so" server="103.56.206.73:69//home/server/" local="3675348359" remote="3675348359" Dst="-1" />
+<file name="update.a" server="103.56.206.73:69//home/server/" local="3675348359" remote="3675348359" Dst="-1" />
+<file name="update.lai" server="103.56.206.73:69//home/server/" local="3675348359" remote="3675348359" Dst="-1" />
+<file name="update.la" server="103.56.206.73:69//home/server/" local="3675348359" remote="3675348359" Dst="-1" />
+<file name="update.a" server="103.56.206.73:69" local="132375422219409653" remote="132375423180000000" Dst="0" />
+<file name="update.la" server="103.56.206.73:69" local="132375422219409653" remote="132375423180000000" Dst="0" />
+<file name="update.lai" server="103.56.206.73:69" local="132375422219419641" remote="132375423180000000" Dst="0" />
+<file name="update.o" server="103.56.206.73:69" local="132375422219429645" remote="132375423180000000" Dst="0" />
+<file name="update.so" server="103.56.206.73:69" local="132375422219449622" remote="132375423180000000" Dst="0" />
+<file name="update_help.o" server="103.56.206.73:69" local="132375422219449622" remote="132375423180000000" Dst="0" />
+</dwsync>

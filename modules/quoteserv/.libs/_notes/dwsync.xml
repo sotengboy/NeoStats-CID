@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8" ?><dwsync><file name="main.o" server="103.56.206.73:69//home/server/" local="3675348351" remote="3675348351" Dst="-1" /><file name="help.o" server="103.56.206.73:69//home/server/" local="3675348352" remote="3675348352" Dst="-1" /><file name="quoteserv.so" server="103.56.206.73:69//home/server/" local="3675348352" remote="3675348352" Dst="-1" /><file name="quoteserv.a" server="103.56.206.73:69//home/server/" local="3675348352" remote="3675348352" Dst="-1" /><file name="quoteserv.lai" server="103.56.206.73:69//home/server/" local="3675348352" remote="3675348352" Dst="-1" /><file name="quoteserv.la" server="103.56.206.73:69//home/server/" local="3675348352" remote="3675348352" Dst="-1" /></dwsync>
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="main.o" server="103.56.206.73:69//home/server/" local="3675348351" remote="3675348351" Dst="-1" />
+<file name="help.o" server="103.56.206.73:69//home/server/" local="3675348352" remote="3675348352" Dst="-1" />
+<file name="quoteserv.so" server="103.56.206.73:69//home/server/" local="3675348352" remote="3675348352" Dst="-1" />
+<file name="quoteserv.a" server="103.56.206.73:69//home/server/" local="3675348352" remote="3675348352" Dst="-1" />
+<file name="quoteserv.lai" server="103.56.206.73:69//home/server/" local="3675348352" remote="3675348352" Dst="-1" />
+<file name="quoteserv.la" server="103.56.206.73:69//home/server/" local="3675348352" remote="3675348352" Dst="-1" />
+<file name="help.o" server="103.56.206.73:69" local="132375422217530809" remote="132375423140000000" Dst="0" />
+<file name="main.o" server="103.56.206.73:69" local="132375422217540792" remote="132375423140000000" Dst="0" />
+<file name="quoteserv.a" server="103.56.206.73:69" local="132375422217550788" remote="132375423140000000" Dst="0" />
+<file name="quoteserv.la" server="103.56.206.73:69" local="132375422217560786" remote="132375423140000000" Dst="0" />
+<file name="quoteserv.lai" server="103.56.206.73:69" local="132375422217570787" remote="132375423140000000" Dst="0" />
+<file name="quoteserv.so" server="103.56.206.73:69" local="132375422217580781" remote="132375423140000000" Dst="0" />
+</dwsync>

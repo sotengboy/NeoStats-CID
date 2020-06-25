@@ -1,1 +1,37 @@
-<?xml version="1.0" encoding="utf-8" ?><dwsync><file name="GeoIPCity.o" server="103.56.206.73:69//home/server/" local="3674540655" remote="3674540655" Dst="-1" /><file name="GeoIPBitReader.o" server="103.56.206.73:69//home/server/" local="3674540655" remote="3674540655" Dst="-1" /><file name="GeoIP.o" server="103.56.206.73:69//home/server/" local="3674540655" remote="3674540655" Dst="-1" /><file name="ss_help.o" server="103.56.206.73:69//home/server/" local="3675348336" remote="3675348336" Dst="-1" /><file name="stats.o" server="103.56.206.73:69//home/server/" local="3675348337" remote="3675348337" Dst="-1" /><file name="statserv.o" server="103.56.206.73:69//home/server/" local="3675348338" remote="3675348338" Dst="-1" /><file name="htmlstats.o" server="103.56.206.73:69//home/server/" local="3675348339" remote="3675348339" Dst="-1" /><file name="tld.o" server="103.56.206.73:69//home/server/" local="3675348340" remote="3675348340" Dst="-1" /><file name="channel.o" server="103.56.206.73:69//home/server/" local="3675348340" remote="3675348340" Dst="-1" /><file name="user.o" server="103.56.206.73:69//home/server/" local="3675348341" remote="3675348341" Dst="-1" /><file name="network.o" server="103.56.206.73:69//home/server/" local="3675348342" remote="3675348342" Dst="-1" /><file name="server.o" server="103.56.206.73:69//home/server/" local="3675348343" remote="3675348343" Dst="-1" /><file name="version.o" server="103.56.206.73:69//home/server/" local="3675348343" remote="3675348343" Dst="-1" /><file name="statserv.so" server="103.56.206.73:69//home/server/" local="3675348344" remote="3675348344" Dst="-1" /><file name="statserv.a" server="103.56.206.73:69//home/server/" local="3675348344" remote="3675348344" Dst="-1" /><file name="statserv.lai" server="103.56.206.73:69//home/server/" local="3675348344" remote="3675348344" Dst="-1" /><file name="statserv.la" server="103.56.206.73:69//home/server/" local="3675348344" remote="3675348344" Dst="-1" /></dwsync>
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="GeoIPCity.o" server="103.56.206.73:69//home/server/" local="3674540655" remote="3674540655" Dst="-1" />
+<file name="GeoIPBitReader.o" server="103.56.206.73:69//home/server/" local="3674540655" remote="3674540655" Dst="-1" />
+<file name="GeoIP.o" server="103.56.206.73:69//home/server/" local="3674540655" remote="3674540655" Dst="-1" />
+<file name="ss_help.o" server="103.56.206.73:69//home/server/" local="3675348336" remote="3675348336" Dst="-1" />
+<file name="stats.o" server="103.56.206.73:69//home/server/" local="3675348337" remote="3675348337" Dst="-1" />
+<file name="statserv.o" server="103.56.206.73:69//home/server/" local="3675348338" remote="3675348338" Dst="-1" />
+<file name="htmlstats.o" server="103.56.206.73:69//home/server/" local="3675348339" remote="3675348339" Dst="-1" />
+<file name="tld.o" server="103.56.206.73:69//home/server/" local="3675348340" remote="3675348340" Dst="-1" />
+<file name="channel.o" server="103.56.206.73:69//home/server/" local="3675348340" remote="3675348340" Dst="-1" />
+<file name="user.o" server="103.56.206.73:69//home/server/" local="3675348341" remote="3675348341" Dst="-1" />
+<file name="network.o" server="103.56.206.73:69//home/server/" local="3675348342" remote="3675348342" Dst="-1" />
+<file name="server.o" server="103.56.206.73:69//home/server/" local="3675348343" remote="3675348343" Dst="-1" />
+<file name="version.o" server="103.56.206.73:69//home/server/" local="3675348343" remote="3675348343" Dst="-1" />
+<file name="statserv.so" server="103.56.206.73:69//home/server/" local="3675348344" remote="3675348344" Dst="-1" />
+<file name="statserv.a" server="103.56.206.73:69//home/server/" local="3675348344" remote="3675348344" Dst="-1" />
+<file name="statserv.lai" server="103.56.206.73:69//home/server/" local="3675348344" remote="3675348344" Dst="-1" />
+<file name="statserv.la" server="103.56.206.73:69//home/server/" local="3675348344" remote="3675348344" Dst="-1" />
+<file name="channel.o" server="103.56.206.73:69" local="132375422217900570" remote="132375423150000000" Dst="0" />
+<file name="GeoIP.o" server="103.56.206.73:69" local="132375422217850604" remote="132375423150000000" Dst="0" />
+<file name="GeoIPBitReader.o" server="103.56.206.73:69" local="132375422217860612" remote="132375423150000000" Dst="0" />
+<file name="GeoIPCity.o" server="103.56.206.73:69" local="132375422217870598" remote="132375423150000000" Dst="0" />
+<file name="htmlstats.o" server="103.56.206.73:69" local="132375422217910566" remote="132375423150000000" Dst="0" />
+<file name="network.o" server="103.56.206.73:69" local="132375422217920558" remote="132375423150000000" Dst="0" />
+<file name="server.o" server="103.56.206.73:69" local="132375422217940558" remote="132375423150000000" Dst="0" />
+<file name="ss_help.o" server="103.56.206.73:69" local="132375422217950545" remote="132375423150000000" Dst="0" />
+<file name="stats.o" server="103.56.206.73:69" local="132375422217960547" remote="132375423150000000" Dst="0" />
+<file name="statserv.a" server="103.56.206.73:69" local="132375422218010514" remote="132375423150000000" Dst="0" />
+<file name="statserv.la" server="103.56.206.73:69" local="132375422218020507" remote="132375423150000000" Dst="0" />
+<file name="statserv.lai" server="103.56.206.73:69" local="132375422218030493" remote="132375423150000000" Dst="0" />
+<file name="statserv.o" server="103.56.206.73:69" local="132375422218040485" remote="132375423150000000" Dst="0" />
+<file name="statserv.so" server="103.56.206.73:69" local="132375422218080464" remote="132375423150000000" Dst="0" />
+<file name="tld.o" server="103.56.206.73:69" local="132375422218090456" remote="132375423150000000" Dst="0" />
+<file name="user.o" server="103.56.206.73:69" local="132375422218100450" remote="132375423150000000" Dst="0" />
+<file name="version.o" server="103.56.206.73:69" local="132375422218110441" remote="132375423150000000" Dst="0" />
+</dwsync>

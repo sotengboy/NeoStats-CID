@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" ?><dwsync><file name="libmrss_la-nxml_download.o" server="103.56.206.73:69//home/server/" local="3675119067" remote="3675119067" Dst="-1" /><file name="libmrss_la-nxml_easy.o" server="103.56.206.73:69//home/server/" local="3675119067" remote="3675119067" Dst="-1" /><file name="libmrss_la-nxml_free.o" server="103.56.206.73:69//home/server/" local="3675119068" remote="3675119068" Dst="-1" /><file name="libmrss_la-nxml_namespace.o" server="103.56.206.73:69//home/server/" local="3675119069" remote="3675119069" Dst="-1" /><file name="libmrss_la-nxml_string.o" server="103.56.206.73:69//home/server/" local="3675119069" remote="3675119069" Dst="-1" /><file name="libmrss_la-nxml_utf.o" server="103.56.206.73:69//home/server/" local="3675119070" remote="3675119070" Dst="-1" /><file name="libmrss_la-nxml_edit.o" server="103.56.206.73:69//home/server/" local="3675119071" remote="3675119071" Dst="-1" /><file name="libmrss_la-nxml_error.o" server="103.56.206.73:69//home/server/" local="3675119071" remote="3675119071" Dst="-1" /><file name="libmrss_la-nxml_init.o" server="103.56.206.73:69//home/server/" local="3675119072" remote="3675119072" Dst="-1" /><file name="libmrss_la-nxml_parser.o" server="103.56.206.73:69//home/server/" local="3675119073" remote="3675119073" Dst="-1" /><file name="libmrss_la-nxml_tools.o" server="103.56.206.73:69//home/server/" local="3675119075" remote="3675119075" Dst="-1" /><file name="libmrss_la-nxml_write.o" server="103.56.206.73:69//home/server/" local="3675119075" remote="3675119075" Dst="-1" /><file name="libmrss_la-mrss_download.o" server="103.56.206.73:69//home/server/" local="3675119076" remote="3675119076" Dst="-1" /><file name="libmrss_la-mrss_edit.o" server="103.56.206.73:69//home/server/" local="3675119077" remote="3675119077" Dst="-1" /><file name="libmrss_la-mrss_free.o" server="103.56.206.73:69//home/server/" local="3675119078" remote="3675119078" Dst="-1" /><file name="libmrss_la-mrss_generic.o" server="103.56.206.73:69//home/server/" local="3675119079" remote="3675119079" Dst="-1" /><file name="libmrss_la-mrss_parser.o" server="103.56.206.73:69//home/server/" local="3675119080" remote="3675119080" Dst="-1" /><file name="libmrss_la-mrss_write.o" server="103.56.206.73:69//home/server/" local="3675119082" remote="3675119082" Dst="-1" /><file name="libmrss_la-mrss_options.o" server="103.56.206.73:69//home/server/" local="3675119083" remote="3675119083" Dst="-1" /><file name="libmrss_la-mrss_search.o" server="103.56.206.73:69//home/server/" local="3675119083" remote="3675119083" Dst="-1" /><file name="libmrss.a" server="103.56.206.73:69//home/server/" local="3675119084" remote="3675119084" Dst="-1" /><file name="libmrss.la" server="103.56.206.73:69//home/server/" local="3675119084" remote="3675119084" Dst="-1" /></dwsync>
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="libmrss_la-nxml_download.o" server="103.56.206.73:69//home/server/" local="3675119067" remote="3675119067" Dst="-1" />
+<file name="libmrss_la-nxml_easy.o" server="103.56.206.73:69//home/server/" local="3675119067" remote="3675119067" Dst="-1" />
+<file name="libmrss_la-nxml_free.o" server="103.56.206.73:69//home/server/" local="3675119068" remote="3675119068" Dst="-1" />
+<file name="libmrss_la-nxml_namespace.o" server="103.56.206.73:69//home/server/" local="3675119069" remote="3675119069" Dst="-1" />
+<file name="libmrss_la-nxml_string.o" server="103.56.206.73:69//home/server/" local="3675119069" remote="3675119069" Dst="-1" />
+<file name="libmrss_la-nxml_utf.o" server="103.56.206.73:69//home/server/" local="3675119070" remote="3675119070" Dst="-1" />
+<file name="libmrss_la-nxml_edit.o" server="103.56.206.73:69//home/server/" local="3675119071" remote="3675119071" Dst="-1" />
+<file name="libmrss_la-nxml_error.o" server="103.56.206.73:69//home/server/" local="3675119071" remote="3675119071" Dst="-1" />
+<file name="libmrss_la-nxml_init.o" server="103.56.206.73:69//home/server/" local="3675119072" remote="3675119072" Dst="-1" />
+<file name="libmrss_la-nxml_parser.o" server="103.56.206.73:69//home/server/" local="3675119073" remote="3675119073" Dst="-1" />
+<file name="libmrss_la-nxml_tools.o" server="103.56.206.73:69//home/server/" local="3675119075" remote="3675119075" Dst="-1" />
+<file name="libmrss_la-nxml_write.o" server="103.56.206.73:69//home/server/" local="3675119075" remote="3675119075" Dst="-1" />
+<file name="libmrss_la-mrss_download.o" server="103.56.206.73:69//home/server/" local="3675119076" remote="3675119076" Dst="-1" />
+<file name="libmrss_la-mrss_edit.o" server="103.56.206.73:69//home/server/" local="3675119077" remote="3675119077" Dst="-1" />
+<file name="libmrss_la-mrss_free.o" server="103.56.206.73:69//home/server/" local="3675119078" remote="3675119078" Dst="-1" />
+<file name="libmrss_la-mrss_generic.o" server="103.56.206.73:69//home/server/" local="3675119079" remote="3675119079" Dst="-1" />
+<file name="libmrss_la-mrss_parser.o" server="103.56.206.73:69//home/server/" local="3675119080" remote="3675119080" Dst="-1" />
+<file name="libmrss_la-mrss_write.o" server="103.56.206.73:69//home/server/" local="3675119082" remote="3675119082" Dst="-1" />
+<file name="libmrss_la-mrss_options.o" server="103.56.206.73:69//home/server/" local="3675119083" remote="3675119083" Dst="-1" />
+<file name="libmrss_la-mrss_search.o" server="103.56.206.73:69//home/server/" local="3675119083" remote="3675119083" Dst="-1" />
+<file name="libmrss.a" server="103.56.206.73:69//home/server/" local="3675119084" remote="3675119084" Dst="-1" />
+<file name="libmrss.la" server="103.56.206.73:69//home/server/" local="3675119084" remote="3675119084" Dst="-1" />
+<file name="libmrss.a" server="103.56.206.73:69" local="132375422211176730" remote="132375423030000000" Dst="0" />
+<file name="libmrss.la" server="103.56.206.73:69" local="132375422211186739" remote="132375423030000000" Dst="0" />
+<file name="libmrss_la-mrss_download.o" server="103.56.206.73:69" local="132375422211196713" remote="132375423030000000" Dst="0" />
+<file name="libmrss_la-mrss_edit.o" server="103.56.206.73:69" local="132375422211206718" remote="132375423030000000" Dst="0" />
+<file name="libmrss_la-mrss_free.o" server="103.56.206.73:69" local="132375422211216744" remote="132375423030000000" Dst="0" />
+<file name="libmrss_la-mrss_generic.o" server="103.56.206.73:69" local="132375422211226695" remote="132375423030000000" Dst="0" />
+<file name="libmrss_la-mrss_options.o" server="103.56.206.73:69" local="132375422211236704" remote="132375423030000000" Dst="0" />
+<file name="libmrss_la-mrss_parser.o" server="103.56.206.73:69" local="132375422211246684" remote="132375423030000000" Dst="0" />
+<file name="libmrss_la-mrss_search.o" server="103.56.206.73:69" local="132375422211256677" remote="132375423030000000" Dst="0" />
+<file name="libmrss_la-mrss_write.o" server="103.56.206.73:69" local="132375422211266671" remote="132375423040000000" Dst="0" />
+<file name="libmrss_la-nxml_download.o" server="103.56.206.73:69" local="132375422211276665" remote="132375423040000000" Dst="0" />
+<file name="libmrss_la-nxml_easy.o" server="103.56.206.73:69" local="132375422211286659" remote="132375423040000000" Dst="0" />
+<file name="libmrss_la-nxml_edit.o" server="103.56.206.73:69" local="132375422211296691" remote="132375423040000000" Dst="0" />
+<file name="libmrss_la-nxml_error.o" server="103.56.206.73:69" local="132375422211306634" remote="132375423040000000" Dst="0" />
+<file name="libmrss_la-nxml_free.o" server="103.56.206.73:69" local="132375422211316657" remote="132375423040000000" Dst="0" />
+<file name="libmrss_la-nxml_init.o" server="103.56.206.73:69" local="132375422211326635" remote="132375423040000000" Dst="0" />
+<file name="libmrss_la-nxml_namespace.o" server="103.56.206.73:69" local="132375422211336629" remote="132375423040000000" Dst="0" />
+<file name="libmrss_la-nxml_parser.o" server="103.56.206.73:69" local="132375422211346621" remote="132375423040000000" Dst="0" />
+<file name="libmrss_la-nxml_string.o" server="103.56.206.73:69" local="132375422211356617" remote="132375423040000000" Dst="0" />
+<file name="libmrss_la-nxml_tools.o" server="103.56.206.73:69" local="132375422211366609" remote="132375423040000000" Dst="0" />
+<file name="libmrss_la-nxml_utf.o" server="103.56.206.73:69" local="132375422211376604" remote="132375423040000000" Dst="0" />
+<file name="libmrss_la-nxml_write.o" server="103.56.206.73:69" local="132375422211386597" remote="132375423040000000" Dst="0" />
+</dwsync>

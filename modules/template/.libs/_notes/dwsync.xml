@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?><dwsync><file name="main.o" server="103.56.206.73:69//home/server/" local="3675348356" remote="3675348356" Dst="-1" /><file name="template.so" server="103.56.206.73:69//home/server/" local="3675348357" remote="3675348357" Dst="-1" /><file name="template.a" server="103.56.206.73:69//home/server/" local="3675348357" remote="3675348357" Dst="-1" /><file name="template.lai" server="103.56.206.73:69//home/server/" local="3675348357" remote="3675348357" Dst="-1" /><file name="template.la" server="103.56.206.73:69//home/server/" local="3675348357" remote="3675348357" Dst="-1" /></dwsync>
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="main.o" server="103.56.206.73:69//home/server/" local="3675348356" remote="3675348356" Dst="-1" />
+<file name="template.so" server="103.56.206.73:69//home/server/" local="3675348357" remote="3675348357" Dst="-1" />
+<file name="template.a" server="103.56.206.73:69//home/server/" local="3675348357" remote="3675348357" Dst="-1" />
+<file name="template.lai" server="103.56.206.73:69//home/server/" local="3675348357" remote="3675348357" Dst="-1" />
+<file name="template.la" server="103.56.206.73:69//home/server/" local="3675348357" remote="3675348357" Dst="-1" />
+<file name="main.o" server="103.56.206.73:69" local="132375422218810014" remote="132375423170000000" Dst="0" />
+<file name="template.a" server="103.56.206.73:69" local="132375422218820031" remote="132375423170000000" Dst="0" />
+<file name="template.la" server="103.56.206.73:69" local="132375422218830027" remote="132375423170000000" Dst="0" />
+<file name="template.lai" server="103.56.206.73:69" local="132375422218840001" remote="132375423170000000" Dst="0" />
+<file name="template.so" server="103.56.206.73:69" local="132375422218850008" remote="132375423170000000" Dst="0" />
+</dwsync>
