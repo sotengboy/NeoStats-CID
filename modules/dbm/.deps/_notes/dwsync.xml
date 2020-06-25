@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="convertdb.Po" server="103.56.206.73:69//home/server/" local="3675348310" remote="3675348310" Dst="-1" />
-<file name="dl.Po" server="103.56.206.73:69//home/server/" local="3675348310" remote="3675348310" Dst="-1" />
-<file name="hash.Po" server="103.56.206.73:69//home/server/" local="3675348310" remote="3675348310" Dst="-1" />
-<file name="ircstring.Po" server="103.56.206.73:69//home/server/" local="3675348311" remote="3675348311" Dst="-1" />
-<file name="list.Po" server="103.56.206.73:69//home/server/" local="3675348311" remote="3675348311" Dst="-1" />
-<file name="nsmemory.Po" server="103.56.206.73:69//home/server/" local="3675348311" remote="3675348311" Dst="-1" />
-<file name="osfile.Po" server="103.56.206.73:69//home/server/" local="3675348311" remote="3675348311" Dst="-1" />
-<file name="support.Po" server="103.56.206.73:69//home/server/" local="3675348312" remote="3675348312" Dst="-1" />
-<file name="convertdb.Po" server="103.56.206.73:69" local="132375422212635837" remote="132375423060000000" Dst="0" />
-<file name="dl.Po" server="103.56.206.73:69" local="132375422212645822" remote="132375423060000000" Dst="0" />
-<file name="hash.Po" server="103.56.206.73:69" local="132375422212655814" remote="132375423060000000" Dst="0" />
-<file name="ircstring.Po" server="103.56.206.73:69" local="132375422212655814" remote="132375423060000000" Dst="0" />
-<file name="list.Po" server="103.56.206.73:69" local="132375422212665810" remote="132375423060000000" Dst="0" />
-<file name="nsmemory.Po" server="103.56.206.73:69" local="132375422212675804" remote="132375423060000000" Dst="0" />
-<file name="osfile.Po" server="103.56.206.73:69" local="132375422212675804" remote="132375423060000000" Dst="0" />
-<file name="support.Po" server="103.56.206.73:69" local="132375422212685796" remote="132375423060000000" Dst="0" />
+<file name="convertdb.Po" server="103.56.206.73:69" local="132375525880000000" remote="132375525880000000" Dst="0" />
+<file name="dl.Po" server="103.56.206.73:69" local="132375525880000000" remote="132375525880000000" Dst="0" />
+<file name="hash.Po" server="103.56.206.73:69" local="132375525880000000" remote="132375525880000000" Dst="0" />
+<file name="ircstring.Po" server="103.56.206.73:69" local="132375525890000000" remote="132375525890000000" Dst="0" />
+<file name="list.Po" server="103.56.206.73:69" local="132375525890000000" remote="132375525890000000" Dst="0" />
+<file name="nsmemory.Po" server="103.56.206.73:69" local="132375525890000000" remote="132375525890000000" Dst="0" />
+<file name="osfile.Po" server="103.56.206.73:69" local="132375525890000000" remote="132375525890000000" Dst="0" />
+<file name="support.Po" server="103.56.206.73:69" local="132375525900000000" remote="132375525900000000" Dst="0" />
 </dwsync>

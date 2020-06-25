@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="hostserv.c" server="103.56.206.73:69//home/server/" local="3299499037" remote="3299499037" Dst="-1" />
-<file name="hostserv.h" server="103.56.206.73:69//home/server/" local="3299499037" remote="3299499037" Dst="-1" />
-<file name="hs_help.c" server="103.56.206.73:69//home/server/" local="3299499037" remote="3299499037" Dst="-1" />
-<file name="Makefile.am" server="103.56.206.73:69//home/server/" local="3299499037" remote="3299499037" Dst="-1" />
-<file name="Makefile.in" server="103.56.206.73:69//home/server/" local="3299499037" remote="3299499037" Dst="-1" />
-<file name="README" server="103.56.206.73:69//home/server/" local="3299499037" remote="3299499037" Dst="-1" />
-<file name="Makefile" server="103.56.206.73:69//home/server/" local="3675118822" remote="3675118822" Dst="-1" />
-<file name="hostserv.o" server="103.56.206.73:69//home/server/" local="3675348335" remote="3675348335" Dst="-1" />
-<file name="hostserv.lo" server="103.56.206.73:69//home/server/" local="3675348335" remote="3675348335" Dst="-1" />
-<file name="hs_help.o" server="103.56.206.73:69//home/server/" local="3675348336" remote="3675348336" Dst="-1" />
-<file name="hs_help.lo" server="103.56.206.73:69//home/server/" local="3675348336" remote="3675348336" Dst="-1" />
-<file name="hostserv.la" server="103.56.206.73:69//home/server/" local="3675348336" remote="3675348336" Dst="-1" />
-<file name="hostserv.c" server="103.56.206.73:69" local="132375422214552639" remote="132375423100000000" Dst="0" />
-<file name="hostserv.h" server="103.56.206.73:69" local="132375422214562628" remote="132375423100000000" Dst="0" />
-<file name="hostserv.la" server="103.56.206.73:69" local="132375422214562628" remote="132375423100000000" Dst="0" />
-<file name="hostserv.lo" server="103.56.206.73:69" local="132375422214572610" remote="132375423100000000" Dst="0" />
-<file name="hostserv.o" server="103.56.206.73:69" local="132375422214592617" remote="132375423100000000" Dst="0" />
-<file name="hs_help.c" server="103.56.206.73:69" local="132375422214592617" remote="132375423100000000" Dst="0" />
-<file name="hs_help.lo" server="103.56.206.73:69" local="132375422214602602" remote="132375423100000000" Dst="0" />
-<file name="hs_help.o" server="103.56.206.73:69" local="132375422214612595" remote="132375423100000000" Dst="0" />
-<file name="Makefile" server="103.56.206.73:69" local="132375422214502659" remote="132375423100000000" Dst="0" />
-<file name="Makefile.am" server="103.56.206.73:69" local="132375422214512656" remote="132375423100000000" Dst="0" />
-<file name="Makefile.in" server="103.56.206.73:69" local="132375422214522646" remote="132375423100000000" Dst="0" />
-<file name="README" server="103.56.206.73:69" local="132375422214532652" remote="132375423100000000" Dst="0" />
+<file name="hostserv.c" server="103.56.206.73:69" local="128611278370000000" remote="128611278370000000" Dst="0" />
+<file name="hostserv.h" server="103.56.206.73:69" local="128611278370000000" remote="128611278370000000" Dst="0" />
+<file name="hs_help.c" server="103.56.206.73:69" local="128611278370000000" remote="128611278370000000" Dst="0" />
+<file name="Makefile.am" server="103.56.206.73:69" local="128611278370000000" remote="128611278370000000" Dst="0" />
+<file name="Makefile.in" server="103.56.206.73:69" local="128611278370000000" remote="128611278370000000" Dst="0" />
+<file name="README" server="103.56.206.73:69" local="128611278370000000" remote="128611278370000000" Dst="0" />
+<file name="hostserv.o" server="103.56.206.73:69" local="132375518260000000" remote="132375518260000000" Dst="0" />
+<file name="hostserv.lo" server="103.56.206.73:69" local="132375518260000000" remote="132375518260000000" Dst="0" />
+<file name="hs_help.o" server="103.56.206.73:69" local="132375518270000000" remote="132375518270000000" Dst="0" />
+<file name="hs_help.lo" server="103.56.206.73:69" local="132375518270000000" remote="132375518270000000" Dst="0" />
+<file name="hostserv.la" server="103.56.206.73:69" local="132375518270000000" remote="132375518270000000" Dst="0" />
+<file name="Makefile" server="103.56.206.73:69" local="132375441800000000" remote="132375441800000000" Dst="0" />
 </dwsync>

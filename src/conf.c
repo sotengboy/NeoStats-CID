@@ -155,6 +155,7 @@ static validate_args arg_validate[] = {
  *
  *  @return none
  */
+
 static void ConfParseError( int err )
 {
 #ifdef WIN32

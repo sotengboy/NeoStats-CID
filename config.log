@@ -290,8 +290,8 @@ configure:8261: checking whether stripping libraries is possible
 configure:8266: result: yes
 configure:8389: checking for shl_load
 configure:8445: gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccQA4NUt.o: In function `main':
-/home/server/NeoStats-3.0.2-3348/conftest.c:59: undefined reference to `shl_load'
+/tmp/ccrX1mAp.o: In function `main':
+/home/server/NeoStats-CID/conftest.c:59: undefined reference to `shl_load'
 collect2: error: ld returned 1 exit status
 configure:8451: $? = 1
 configure: failed program was:
@@ -406,8 +406,8 @@ configure: failed program was:
 configure:8532: result: no
 configure:8537: checking for dlopen
 configure:8593: gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccei2HnO.o: In function `main':
-/home/server/NeoStats-3.0.2-3348/conftest.c:59: undefined reference to `dlopen'
+/tmp/cc0MOHkL.o: In function `main':
+/home/server/NeoStats-CID/conftest.c:59: undefined reference to `dlopen'
 collect2: error: ld returned 1 exit status
 configure:8599: $? = 1
 configure: failed program was:
@@ -1344,8 +1344,8 @@ configure:12710: $? = 0
 configure:12728: result: yes
 configure:12648: checking for stricmp
 configure:12704: gcc -o conftest -g -O2 -g -rdynamic   -g -rdynamic conftest.c -lm -ldl  >&5
-/tmp/cclxnKQd.o: In function `main':
-/home/server/NeoStats-3.0.2-3348/conftest.c:117: undefined reference to `stricmp'
+/tmp/ccWepLpB.o: In function `main':
+/home/server/NeoStats-CID/conftest.c:117: undefined reference to `stricmp'
 collect2: error: ld returned 1 exit status
 configure:12710: $? = 1
 configure: failed program was:
@@ -1472,8 +1472,8 @@ configure: failed program was:
 configure:12728: result: no
 configure:12737: checking deeper for stricmp
 configure:12760: gcc -o conftest -g -O2 -g -rdynamic   -g -rdynamic conftest.c -lm -ldl  >&5
-/tmp/cc83I4Do.o: In function `main':
-/home/server/NeoStats-3.0.2-3348/conftest.c:87: undefined reference to `stricmp'
+/tmp/cc7r1gXE.o: In function `main':
+/home/server/NeoStats-CID/conftest.c:87: undefined reference to `stricmp'
 collect2: error: ld returned 1 exit status
 configure:12766: $? = 1
 configure: failed program was:
@@ -1570,8 +1570,8 @@ configure: failed program was:
 configure:12785: result: but still no
 configure:12648: checking for strcmpi
 configure:12704: gcc -o conftest -g -O2 -g -rdynamic   -g -rdynamic conftest.c -lm -ldl  >&5
-/tmp/cc7NJBAw.o: In function `main':
-/home/server/NeoStats-3.0.2-3348/conftest.c:117: undefined reference to `strcmpi'
+/tmp/ccDPSbRO.o: In function `main':
+/home/server/NeoStats-CID/conftest.c:117: undefined reference to `strcmpi'
 collect2: error: ld returned 1 exit status
 configure:12710: $? = 1
 configure: failed program was:
@@ -1698,8 +1698,8 @@ configure: failed program was:
 configure:12728: result: no
 configure:12737: checking deeper for strcmpi
 configure:12760: gcc -o conftest -g -O2 -g -rdynamic   -g -rdynamic conftest.c -lm -ldl  >&5
-/tmp/ccsqRH8J.o: In function `main':
-/home/server/NeoStats-3.0.2-3348/conftest.c:87: undefined reference to `strcmpi'
+/tmp/ccVwzvMX.o: In function `main':
+/home/server/NeoStats-CID/conftest.c:87: undefined reference to `strcmpi'
 collect2: error: ld returned 1 exit status
 configure:12766: $? = 1
 configure: failed program was:
@@ -1828,8 +1828,8 @@ configure:12710: $? = 0
 configure:12728: result: yes
 configure:12648: checking for closesocket
 configure:12704: gcc -o conftest -g -O2 -g -rdynamic   -g -rdynamic conftest.c -lm -ldl  >&5
-/tmp/ccYTMt47.o: In function `main':
-/home/server/NeoStats-3.0.2-3348/conftest.c:125: undefined reference to `closesocket'
+/tmp/ccXZjKkz.o: In function `main':
+/home/server/NeoStats-CID/conftest.c:125: undefined reference to `closesocket'
 collect2: error: ld returned 1 exit status
 configure:12710: $? = 1
 configure: failed program was:
@@ -1964,8 +1964,8 @@ configure: failed program was:
 configure:12728: result: no
 configure:12737: checking deeper for closesocket
 configure:12760: gcc -o conftest -g -O2 -g -rdynamic   -g -rdynamic conftest.c -lm -ldl  >&5
-/tmp/ccmWznHi.o: In function `main':
-/home/server/NeoStats-3.0.2-3348/conftest.c:95: undefined reference to `closesocket'
+/tmp/cc7RrUcI.o: In function `main':
+/home/server/NeoStats-CID/conftest.c:95: undefined reference to `closesocket'
 collect2: error: ld returned 1 exit status
 configure:12766: $? = 1
 configure: failed program was:
@@ -2100,8 +2100,8 @@ configure:12710: $? = 0
 configure:12728: result: yes
 configure:12648: checking for sigsetjmp
 configure:12704: gcc -o conftest -g -O2 -g -rdynamic   -g -rdynamic conftest.c -lm -ldl  >&5
-/tmp/ccG2VgoE.o: In function `main':
-/home/server/NeoStats-3.0.2-3348/conftest.c:132: undefined reference to `sigsetjmp'
+/tmp/cceJWQ0W.o: In function `main':
+/home/server/NeoStats-CID/conftest.c:132: undefined reference to `sigsetjmp'
 collect2: error: ld returned 1 exit status
 configure:12710: $? = 1
 configure: failed program was:
@@ -2243,8 +2243,8 @@ configure: failed program was:
 configure:12728: result: no
 configure:12737: checking deeper for sigsetjmp
 configure:12760: gcc -o conftest -g -O2 -g -rdynamic   -g -rdynamic conftest.c -lm -ldl  >&5
-/tmp/ccrzWi1N.o: In function `main':
-/home/server/NeoStats-3.0.2-3348/conftest.c:102: undefined reference to `sigsetjmp'
+/tmp/ccz3Xh16.o: In function `main':
+/home/server/NeoStats-CID/conftest.c:102: undefined reference to `sigsetjmp'
 collect2: error: ld returned 1 exit status
 configure:12766: $? = 1
 configure: failed program was:
@@ -2875,8 +2875,8 @@ configure:14134: $? = 0
 configure:14152: result: yes
 configure:14159: checking for _doprnt
 configure:14215: gcc -o conftest -g -O2 -g -rdynamic   -g -rdynamic conftest.c -lm -ldl  >&5
-/tmp/cckuos0G.o: In function `main':
-/home/server/NeoStats-3.0.2-3348/conftest.c:153: undefined reference to `_doprnt'
+/tmp/ccau0QHc.o: In function `main':
+/home/server/NeoStats-CID/conftest.c:153: undefined reference to `_doprnt'
 collect2: error: ld returned 1 exit status
 configure:14221: $? = 1
 configure: failed program was:
@@ -3043,8 +3043,8 @@ configure:14321: $? = 0
 configure:14339: result: yes
 configure:14259: checking for strlcpy
 configure:14315: gcc -o conftest -g -O2 -g -rdynamic   -g -rdynamic conftest.c -lm -ldl  >&5
-/tmp/ccfpCk32.o: In function `main':
-/home/server/NeoStats-3.0.2-3348/conftest.c:154: undefined reference to `strlcpy'
+/tmp/cca96sWB.o: In function `main':
+/home/server/NeoStats-CID/conftest.c:154: undefined reference to `strlcpy'
 collect2: error: ld returned 1 exit status
 configure:14321: $? = 1
 configure: failed program was:
@@ -3208,8 +3208,8 @@ configure: failed program was:
 configure:14339: result: no
 configure:14259: checking for strlcat
 configure:14315: gcc -o conftest -g -O2 -g -rdynamic   -g -rdynamic conftest.c -lm -ldl  >&5
-/tmp/ccGbhRDg.o: In function `main':
-/home/server/NeoStats-3.0.2-3348/conftest.c:154: undefined reference to `strlcat'
+/tmp/ccJRu5uO.o: In function `main':
+/home/server/NeoStats-CID/conftest.c:154: undefined reference to `strlcat'
 collect2: error: ld returned 1 exit status
 configure:14321: $? = 1
 configure: failed program was:
@@ -3384,8 +3384,8 @@ configure:14412: $? = 0
 configure:14429: result: yes
 configure:14451: checking whether external symbols need an underscore prefix
 configure:14484: gcc -o conftest -g -O2 -g -rdynamic   -g -rdynamic conftest.c conftest_asm.s -g -lm -ldl  >&5
-/tmp/ccLfWlSB.o: In function `main':
-/home/server/NeoStats-3.0.2-3348/conftest.c:126: undefined reference to `ac_test'
+/tmp/cc90emlg.o: In function `main':
+/home/server/NeoStats-CID/conftest.c:126: undefined reference to `ac_test'
 collect2: error: ld returned 1 exit status
 configure:14490: $? = 1
 configure: failed program was:
@@ -43824,8 +43824,8 @@ configure:18327: $? = 0
 configure:18334: result: yes
 configure:18358: checking for inet_ntoa_r
 configure:18414: gcc -o conftest -g -O2 -g -rdynamic   -g -rdynamic conftest.c -g -lm -ldl  >&5
-/tmp/cccRIl6I.o: In function `main':
-/home/server/NeoStats-3.0.2-3348/conftest.c:198: undefined reference to `inet_ntoa_r'
+/tmp/ccJaao5N.o: In function `main':
+/home/server/NeoStats-CID/conftest.c:198: undefined reference to `inet_ntoa_r'
 collect2: error: ld returned 1 exit status
 configure:18420: $? = 1
 configure: failed program was:
@@ -45542,8 +45542,8 @@ configure:20572: $? = 0
 configure:20590: result: yes
 configure:20510: checking for RAND_screen
 configure:20566: gcc -o conftest -g -O2 -g -rdynamic     -g -rdynamic   conftest.c -lssl -lcrypto -g -lm -ldl  -lssl -lcrypto   >&5
-/tmp/cczMQ52i.o: In function `main':
-/home/server/NeoStats-3.0.2-3348/conftest.c:220: undefined reference to `RAND_screen'
+/tmp/ccY5AKKe.o: In function `main':
+/home/server/NeoStats-CID/conftest.c:220: undefined reference to `RAND_screen'
 collect2: error: ld returned 1 exit status
 configure:20572: $? = 1
 configure: failed program was:
@@ -45844,8 +45844,8 @@ configure:22803: checking for pwd
 configure:22821: found /bin/pwd
 configure:22834: result: /bin/pwd
 configure:22852: checking for ccdv
-configure:22935: result: /home/server/NeoStats-3.0.2-3348/ccdv
-configure:22945: result: /home/server/NeoStats-3.0.2-3348/ccdv
+configure:22935: result: /home/server/NeoStats-CID/ccdv
+configure:22945: result: /home/server/NeoStats-CID/ccdv
 configure:22973: checking for TAILQ_FOREACH in sys/queue.h
 configure:22990: result: yes
 configure:23007: checking for timeradd in sys/time.h
@@ -45857,17 +45857,17 @@ configure:23158: result: yes
 configure:23179: checking for poll
 configure:23259: result: yes
 configure:23492: checking for epoll_ctl
-configure:23548: /home/server/NeoStats-3.0.2-3348/ccdv gcc -o conftest -g -O2 -g -rdynamic     -g -rdynamic   conftest.c -lssl -lcrypto -g -lm -ldl  -lssl -lcrypto   -lz >&5
+configure:23548: /home/server/NeoStats-CID/ccdv gcc -o conftest -g -O2 -g -rdynamic     -g -rdynamic   conftest.c -lssl -lcrypto -g -lm -ldl  -lssl -lcrypto   -lz >&5
 Compiling conftest.c.
 configure:23554: $? = 0
 configure:23572: result: yes
 configure:23891: checking for err
-configure:23947: /home/server/NeoStats-3.0.2-3348/ccdv gcc -o conftest -g -O2 -g -rdynamic     -g -rdynamic   conftest.c -lssl -lcrypto -g -lm -ldl  -lssl -lcrypto   -lz >&5
+configure:23947: /home/server/NeoStats-CID/ccdv gcc -o conftest -g -O2 -g -rdynamic     -g -rdynamic   conftest.c -lssl -lcrypto -g -lm -ldl  -lssl -lcrypto   -lz >&5
 Compiling conftest.c.
 configure:23953: $? = 0
 configure:23971: result: yes
 configure:23990: checking for socklen_t
-configure:24015: /home/server/NeoStats-3.0.2-3348/ccdv gcc -c -g -O2 -g -rdynamic    conftest.c >&5
+configure:24015: /home/server/NeoStats-CID/ccdv gcc -c -g -O2 -g -rdynamic    conftest.c >&5
 Compiling conftest.c.
 configure:24021: $? = 0
 configure:24026: result: yes
@@ -46194,21 +46194,21 @@ lt_lt_cv_prog_compiler_c_o='"yes"'
 lt_lt_cv_sys_global_symbol_pipe='"sed -n -e '\''s/^.*[ 	]\\([ABCDGIRSTW][ABCDGIRSTW]*\\)[ 	][ 	]*\\([_A-Za-z][_A-Za-z0-9]*\\)\$/\\1 \\2 \\2/p'\''"'
 lt_lt_cv_sys_global_symbol_to_c_name_address='"sed -n -e '\''s/^: \\([^ ]*\\) \$/  {\\\"\\1\\\", (lt_ptr) 0},/p'\'' -e '\''s/^[BCDEGRST] \\([^ ]*\\) \\([^ ]*\\)\$/  {\"\\2\", (lt_ptr) \\&\\2},/p'\''"'
 lt_lt_cv_sys_global_symbol_to_cdecl='"sed -n -e '\''s/^. .* \\(.*\\)\$/extern int \\1;/p'\''"'
-wi_cv_path_ccdv=/home/server/NeoStats-3.0.2-3348/ccdv
+wi_cv_path_ccdv=/home/server/NeoStats-CID/ccdv
 
 ## ----------------- ##
 ## Output variables. ##
 ## ----------------- ##
 
-ACLOCAL='${SHELL} /home/server/NeoStats-3.0.2-3348/autotools/missing --run aclocal-1.9'
+ACLOCAL='${SHELL} /home/server/NeoStats-CID/autotools/missing --run aclocal-1.9'
 AMDEPBACKSLASH='\'
 AMDEP_FALSE='#'
 AMDEP_TRUE=''
-AMTAR='${SHELL} /home/server/NeoStats-3.0.2-3348/autotools/missing --run tar'
+AMTAR='${SHELL} /home/server/NeoStats-CID/autotools/missing --run tar'
 AR='ar'
-AUTOCONF='${SHELL} /home/server/NeoStats-3.0.2-3348/autotools/missing --run autoconf'
-AUTOHEADER='${SHELL} /home/server/NeoStats-3.0.2-3348/autotools/missing --run autoheader'
-AUTOMAKE='${SHELL} /home/server/NeoStats-3.0.2-3348/autotools/missing --run automake-1.9'
+AUTOCONF='${SHELL} /home/server/NeoStats-CID/autotools/missing --run autoconf'
+AUTOHEADER='${SHELL} /home/server/NeoStats-CID/autotools/missing --run autoheader'
+AUTOMAKE='${SHELL} /home/server/NeoStats-CID/autotools/missing --run automake-1.9'
 AWK='gawk'
 BLD_BDB=''
 BLD_LIBEXEC=''
@@ -46218,9 +46218,9 @@ BUILD_PCRE_FALSE='#'
 BUILD_PCRE_TRUE=''
 CABUNDLE_FALSE='#'
 CABUNDLE_TRUE=''
-CC='/home/server/NeoStats-3.0.2-3348/ccdv gcc'
+CC='/home/server/NeoStats-CID/ccdv gcc'
 CCDEPMODE='depmode=gcc3'
-CCDV='/home/server/NeoStats-3.0.2-3348/ccdv'
+CCDV='/home/server/NeoStats-CID/ccdv'
 CFLAGS='-g -O2 -g -rdynamic -DNDEBUG -fno-strict-aliasing -fno-strict-aliasing'
 CPP='gcc -E'
 CPPFLAGS='  '
@@ -46268,7 +46268,7 @@ LTLIBOBJS=''
 MAINT='#'
 MAINTAINER_MODE_FALSE=''
 MAINTAINER_MODE_TRUE='#'
-MAKEINFO='${SHELL} /home/server/NeoStats-3.0.2-3348/autotools/missing --run makeinfo'
+MAKEINFO='${SHELL} /home/server/NeoStats-CID/autotools/missing --run makeinfo'
 MODULES='connectserv hostserv statserv ircdauth extauth limitserv textserv quoteserv operlog dccpartyline perltest templateauth template update'
 OBJEXT='o'
 PACKAGE='NeoStats'
@@ -46324,7 +46324,7 @@ host_vendor='unknown'
 htmldir='${docdir}'
 includedir='${prefix}/include'
 infodir='${datarootdir}/info'
-install_sh='/home/server/NeoStats-3.0.2-3348/autotools/install-sh'
+install_sh='/home/server/NeoStats-CID/autotools/install-sh'
 libdir='${exec_prefix}/lib'
 libexecdir='${exec_prefix}/libexec'
 localedir='${datarootdir}/locale'

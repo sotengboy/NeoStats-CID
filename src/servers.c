@@ -37,12 +37,14 @@
 #include "main.h"
 #include "namedvars.h"
 #include "namedvars-core.h"
+//#include "uid.h"
 
 #define SERVER_TABLE_SIZE	HASHCOUNT_T_MAX
 
 static hash_t *serverhash;
 
 nv_struct nv_server[] = {
+	{ "uid", NV_STR, offsetof(Client, name), NV_FLG_RO, -1, MAXNICK},
 	{ "name", NV_STR, offsetof(Client, name), NV_FLG_RO, -1, MAXNICK},
 	{ "name64", NV_STR, offsetof(Client, name64), NV_FLG_RO, -1, B64SIZE},
 	{ "uplinkname", NV_STR, offsetof(Client, uplinkname), NV_FLG_RO, -1, MAXHOST},
@@ -235,7 +237,7 @@ Client *find_server_base64( const char *num )
 		s = hnode_get( node );
 		if( strncmp( s->name64, num, BASE64SERVERSIZE ) == 0 )
 		{
-			dlog( DEBUG1, "find_server_base64: %s -> %s", num, s->sid );
+			dlog( DEBUG1, "find_server_base64: %s -> %s", num, s->name );
 			return s;
 		}
 	}
@@ -253,14 +255,14 @@ Client *find_server_base64( const char *num )
  *  @return pointer to Client or NULL if fails
  */
 
-Client *FindServer( const char *sid )
+Client *FindServer( const char *name )
 {
 	Client *s;
 
-	s = (Client *)hnode_find( serverhash, sid );
+	s = (Client *)hnode_find( serverhash, name );
 	if( s == NULL )
 	{
-		dlog( DEBUG3, "FindServer: %s not found!", sid );
+		dlog( DEBUG3, "FindServer: %s not found!", name );
 	}
 	return s;
 }
@@ -285,7 +287,7 @@ static int ListServer( Client *s, void *v )
 	uptime = s->server->uptime  + ( me.now - me.ts_boot );
 	cmdparams = ( CmdParams * ) v;
 	if( ircd_srv.protocol & PROTOCOL_B64SERVER )
-		irc_prefmsg( ns_botptr, cmdparams->source, _( "Server: %s (%s)" ), s->sid, s->name64 );
+		irc_prefmsg( ns_botptr, cmdparams->source, _( "Server: %s (%s)" ), s->name, s->name64 );
 	else
 		irc_prefmsg( ns_botptr, cmdparams->source, _( "Server: %s" ), s->name );
 	irc_prefmsg( ns_botptr, cmdparams->source, _( "Version: %s" ), s->version );
@@ -747,12 +749,12 @@ static void sync_server_leaf( Client * Server )
  *  @return none
  */
 
-void SyncServer( const char *sid)
+void SyncServer( const char *name)
 {
 	Client *s;
 
-	dlog( DEBUG1, "SyncServer: %s", sid );
-	s = FindServer(sid);
+	dlog( DEBUG1, "SyncServer: %s", name );
+	s = FindServer(name);
 	if (s) {
 		SetServerSynched(s);
 		SyncServerClients(s);

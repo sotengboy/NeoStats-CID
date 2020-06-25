@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="cs.o" server="103.56.206.73:69//home/server/" local="3675348332" remote="3675348332" Dst="-1" />
-<file name="cs_help.o" server="103.56.206.73:69//home/server/" local="3675348333" remote="3675348333" Dst="-1" />
-<file name="connectserv.so" server="103.56.206.73:69//home/server/" local="3675348334" remote="3675348334" Dst="-1" />
-<file name="connectserv.a" server="103.56.206.73:69//home/server/" local="3675348334" remote="3675348334" Dst="-1" />
-<file name="connectserv.lai" server="103.56.206.73:69//home/server/" local="3675348334" remote="3675348334" Dst="-1" />
-<file name="connectserv.la" server="103.56.206.73:69//home/server/" local="3675348334" remote="3675348334" Dst="-1" />
-<file name="connectserv.a" server="103.56.206.73:69" local="132375422212465947" remote="132375423060000000" Dst="0" />
-<file name="connectserv.la" server="103.56.206.73:69" local="132375422212465947" remote="132375423060000000" Dst="0" />
-<file name="connectserv.lai" server="103.56.206.73:69" local="132375422212475929" remote="132375423060000000" Dst="0" />
-<file name="connectserv.so" server="103.56.206.73:69" local="132375422212485919" remote="132375423060000000" Dst="0" />
-<file name="cs.o" server="103.56.206.73:69" local="132375422212505910" remote="132375423060000000" Dst="0" />
-<file name="cs_help.o" server="103.56.206.73:69" local="132375422212505910" remote="132375423060000000" Dst="0" />
+<file name="cs.o" server="103.56.206.73:69" local="132375518230000000" remote="132375518230000000" Dst="0" />
+<file name="cs_help.o" server="103.56.206.73:69" local="132375518240000000" remote="132375518240000000" Dst="0" />
+<file name="connectserv.so" server="103.56.206.73:69" local="132375518250000000" remote="132375518250000000" Dst="0" />
+<file name="connectserv.a" server="103.56.206.73:69" local="132375518250000000" remote="132375518250000000" Dst="0" />
+<file name="connectserv.lai" server="103.56.206.73:69" local="132375518250000000" remote="132375518250000000" Dst="0" />
+<file name="connectserv.la" server="103.56.206.73:69" local="132375518250000000" remote="132375518250000000" Dst="0" />
 </dwsync>

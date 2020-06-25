@@ -43,7 +43,6 @@
 static hash_t *userhash;
 
 nv_struct nv_client[] = {
-    { "uid", NV_STR, offsetof(Client, uid), NV_FLG_RO, -1, MAXNICK},
 	{ "name", NV_STR, offsetof(Client, name), NV_FLG_RO, -1, MAXNICK},
 	{ "name64", NV_STR, offsetof(Client, name64), NV_FLG_RO, -1, B64SIZE},
 	{ "uplinkname", NV_STR, offsetof(Client, uplinkname), NV_FLG_RO, -1, MAXHOST},
@@ -79,7 +78,7 @@ nv_struct nv_client[] = {
  *  @return pointer to Client or NULL if fails
  */
 
-static Client *new_user( const char *uid )
+static Client *new_user( const char *nick )
 {
 	Client *u;
 
@@ -89,7 +88,7 @@ static Client *new_user( const char *uid )
 		nlog( LOG_CRITICAL, "new_user: user hash is full" );
 		return NULL;
 	}
-	dlog( DEBUG2, "new_user: %s", uid );
+	dlog( DEBUG2, "new_user: %s", nick );
 	u = ns_calloc( sizeof( Client ) );
 	strlcpy( u->name, nick, MAXNICK );
 	u->user = ns_calloc( sizeof( User ) );
@@ -563,14 +562,14 @@ Client *find_user_base64( const char *num )
  *  @return pointer to Client or NULL if fails
  */
 
-Client *FindUser( const char *uid )
+Client *FindUser( const char *nick )
 {
 	Client *u;
 
-	u = ( Client * )hnode_find( userhash, uid );
+	u = ( Client * )hnode_find( userhash, nick );
 	if( u == NULL )
 	{
-		dlog( DEBUG3, "FindUser: %s not found", uid );
+		dlog( DEBUG3, "FindUser: %s not found", nick );
 	}
 	return u;
 }

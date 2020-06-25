@@ -24,8 +24,8 @@
 #ifndef _SERVER_H_
 #define _SERVER_H_
 
-Client *AddServer( const char *name, const char *uplink, const char *hops, const char *numeric, const char *infoline );
-void DelServer( const char *name, const char *reason );
+Client *AddServer( const char *sid, const char *uplink, const char *hops, const char *numeric, const char *infoline );
+void DelServer( const char *sid, const char *reason );
 int ns_cmd_serverlist( const CmdParams *cmdparams );
 int InitServers( void );
 int PingServers( void *);
@@ -34,6 +34,6 @@ void FiniServers( void );
 Client *find_server_base64( const char *num );
 void RequestServerUptimes( void );
 void CleanupServerModdata( void );
-void SyncServer( const char *name);
+void SyncServer( const char *sid);
 
 #endif /* _SERVER_H_ */

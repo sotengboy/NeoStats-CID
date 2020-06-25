@@ -335,7 +335,7 @@ EXPORTFUNC void do_server( const char *name, const char *uplink, const char *hop
 EXPORTFUNC void do_burst( char *origin, char **argv, int argc );
 EXPORTFUNC void do_swhois( const char *who, const char *swhois );
 EXPORTFUNC void do_tkl( const char *add, const char *type, const char *user, const char *host, const char *setby, const char *tsexpire, const char *tsset, const char *reason );
-EXPORTFUNC void do_eos( const char *sid );
+EXPORTFUNC void do_eos( const char *name );
 EXPORTFUNC void do_setname( const char *nick, const char *realname );
 EXPORTFUNC void do_sethost( const char *nick, const char *host );
 EXPORTFUNC void do_setident( const char *nick, const char *ident );
@@ -389,7 +389,7 @@ MODULEFUNC void send_ping( const char *source, const char *reply, const char *ta
 MODULEFUNC void send_pong( const char *reply, const char *data );
 MODULEFUNC void send_server( const char *source, const char *name, const int numeric, const char *infoline );
 MODULEFUNC void send_squit( const char *server, const char *quitmsg );
-MODULEFUNC void send_nick( const char *nick, const unsigned long ts, const char *newmode, const char *ident, const char *host, const char *server, const char *realname );
+MODULEFUNC void send_nick( const char *nick, const unsigned long ts, const char *newmode, const char *ident, const char *host, const char *uid, const char *server, const char *realname );
 MODULEFUNC void send_server_connect( const char *name, const int numeric, const char *infoline, const char *pass, const unsigned long tsboot, const unsigned long tslink );
 MODULEFUNC void send_netinfo( const char *source, const char *maxglobalcnt, const unsigned long ts, const int prot, const char *cloak, const char *netname );
 MODULEFUNC void send_snetinfo( const char *source, const char *maxglobalcnt, const unsigned long ts, const int prot, const char *cloak, const char *netname );

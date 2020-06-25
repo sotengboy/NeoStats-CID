@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="main.c" server="103.56.206.73:69//home/server/" local="3299499029" remote="3299499029" Dst="-1" />
-<file name="quoteserv.h" server="103.56.206.73:69//home/server/" local="3299499029" remote="3299499029" Dst="-1" />
-<file name="help.c" server="103.56.206.73:69//home/server/" local="3299499029" remote="3299499029" Dst="-1" />
-<file name="Makefile.am" server="103.56.206.73:69//home/server/" local="3299499028" remote="3299499028" Dst="-1" />
-<file name="Makefile.in" server="103.56.206.73:69//home/server/" local="3299499028" remote="3299499028" Dst="-1" />
-<file name="Makefile" server="103.56.206.73:69//home/server/" local="3675118822" remote="3675118822" Dst="-1" />
-<file name="main.o" server="103.56.206.73:69//home/server/" local="3675348351" remote="3675348351" Dst="-1" />
-<file name="main.lo" server="103.56.206.73:69//home/server/" local="3675348351" remote="3675348351" Dst="-1" />
-<file name="help.o" server="103.56.206.73:69//home/server/" local="3675348352" remote="3675348352" Dst="-1" />
-<file name="help.lo" server="103.56.206.73:69//home/server/" local="3675348352" remote="3675348352" Dst="-1" />
-<file name="quoteserv.la" server="103.56.206.73:69//home/server/" local="3675348352" remote="3675348352" Dst="-1" />
-<file name="help.c" server="103.56.206.73:69" local="132375422217660732" remote="132375423140000000" Dst="0" />
-<file name="help.lo" server="103.56.206.73:69" local="132375422217670724" remote="132375423140000000" Dst="0" />
-<file name="help.o" server="103.56.206.73:69" local="132375422217680704" remote="132375423150000000" Dst="0" />
-<file name="main.c" server="103.56.206.73:69" local="132375422217680704" remote="132375423150000000" Dst="0" />
-<file name="main.lo" server="103.56.206.73:69" local="132375422217690717" remote="132375423150000000" Dst="0" />
-<file name="main.o" server="103.56.206.73:69" local="132375422217700710" remote="132375423150000000" Dst="0" />
-<file name="Makefile" server="103.56.206.73:69" local="132375422217590774" remote="132375423150000000" Dst="0" />
-<file name="Makefile.am" server="103.56.206.73:69" local="132375422217600772" remote="132375423150000000" Dst="0" />
-<file name="Makefile.in" server="103.56.206.73:69" local="132375422217610763" remote="132375423150000000" Dst="0" />
-<file name="quoteserv.h" server="103.56.206.73:69" local="132375422217710694" remote="132375423150000000" Dst="0" />
-<file name="quoteserv.la" server="103.56.206.73:69" local="132375422217720690" remote="132375423150000000" Dst="0" />
+<file name="main.c" server="103.56.206.73:69" local="128611278290000000" remote="128611278290000000" Dst="0" />
+<file name="quoteserv.h" server="103.56.206.73:69" local="128611278290000000" remote="128611278290000000" Dst="0" />
+<file name="help.c" server="103.56.206.73:69" local="128611278290000000" remote="128611278290000000" Dst="0" />
+<file name="Makefile.am" server="103.56.206.73:69" local="128611278280000000" remote="128611278280000000" Dst="0" />
+<file name="Makefile.in" server="103.56.206.73:69" local="128611278280000000" remote="128611278280000000" Dst="0" />
+<file name="main.o" server="103.56.206.73:69" local="132375518440000000" remote="132375518440000000" Dst="0" />
+<file name="main.lo" server="103.56.206.73:69" local="132375518440000000" remote="132375518440000000" Dst="0" />
+<file name="help.o" server="103.56.206.73:69" local="132375518440000000" remote="132375518440000000" Dst="0" />
+<file name="help.lo" server="103.56.206.73:69" local="132375518440000000" remote="132375518440000000" Dst="0" />
+<file name="quoteserv.la" server="103.56.206.73:69" local="132375518450000000" remote="132375518450000000" Dst="0" />
+<file name="Makefile" server="103.56.206.73:69" local="132375441800000000" remote="132375441800000000" Dst="0" />
 </dwsync>

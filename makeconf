@@ -9,11 +9,11 @@ fi
 
 TIME=`date +"%H:%M:%S %Z"`
 DATE=`date +"%a, %b %e %Y"`
-SERVNAME="stats.chating.id"
-ROOTNICK="ChatingID"
-SERVICEHOST="services.chating.id"
+SERVNAME="stats.somenet.net"
+ROOTNICK="NeoStats"
+SERVICEHOST="stats.net"
 SERVNUMERIC="1"
-INFOLINE="NeoStats 3.0.2-CID IRC Services"
+INFOLINE="NeoStats 3.0 IRC Services"
 LINKPORT="6667"
 LINKSERVER="127.0.0.1"
 LINKPASS="linkpassword"

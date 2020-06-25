@@ -1,29 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="Makefile.am" server="103.56.206.73:69//home/server/" local="3299499032" remote="3299499032" Dst="-1" />
-<file name="convertdb.c" server="103.56.206.73:69//home/server/" local="3299499032" remote="3299499032" Dst="-1" />
-<file name="Makefile.in" server="103.56.206.73:69//home/server/" local="3299499032" remote="3299499032" Dst="-1" />
-<file name="Makefile" server="103.56.206.73:69//home/server/" local="3675118821" remote="3675118821" Dst="-1" />
-<file name="convertdb.o" server="103.56.206.73:69//home/server/" local="3675348310" remote="3675348310" Dst="-1" />
-<file name="dl.o" server="103.56.206.73:69//home/server/" local="3675348310" remote="3675348310" Dst="-1" />
-<file name="hash.o" server="103.56.206.73:69//home/server/" local="3675348310" remote="3675348310" Dst="-1" />
-<file name="list.o" server="103.56.206.73:69//home/server/" local="3675348311" remote="3675348311" Dst="-1" />
-<file name="ircstring.o" server="103.56.206.73:69//home/server/" local="3675348311" remote="3675348311" Dst="-1" />
-<file name="nsmemory.o" server="103.56.206.73:69//home/server/" local="3675348311" remote="3675348311" Dst="-1" />
-<file name="osfile.o" server="103.56.206.73:69//home/server/" local="3675348311" remote="3675348311" Dst="-1" />
-<file name="support.o" server="103.56.206.73:69//home/server/" local="3675348312" remote="3675348312" Dst="-1" />
-<file name="convertdb" server="103.56.206.73:69//home/server/" local="3675348312" remote="3675348312" Dst="-1" />
-<file name="convertdb" server="103.56.206.73:69" local="132375422212823650" remote="132375423070000000" Dst="0" />
-<file name="convertdb.c" server="103.56.206.73:69" local="132375422212833686" remote="132375423070000000" Dst="0" />
-<file name="convertdb.o" server="103.56.206.73:69" local="132375422212843679" remote="132375423070000000" Dst="0" />
-<file name="dl.o" server="103.56.206.73:69" local="132375422212853675" remote="132375423070000000" Dst="0" />
-<file name="hash.o" server="103.56.206.73:69" local="132375422213923016" remote="132375423090000000" Dst="0" />
-<file name="ircstring.o" server="103.56.206.73:69" local="132375422213933004" remote="132375423090000000" Dst="0" />
-<file name="list.o" server="103.56.206.73:69" local="132375422213943002" remote="132375423090000000" Dst="0" />
-<file name="Makefile" server="103.56.206.73:69" local="132375422212725774" remote="132375423090000000" Dst="0" />
-<file name="Makefile.am" server="103.56.206.73:69" local="132375422212735783" remote="132375423090000000" Dst="0" />
-<file name="Makefile.in" server="103.56.206.73:69" local="132375422212745758" remote="132375423090000000" Dst="0" />
-<file name="nsmemory.o" server="103.56.206.73:69" local="132375422213952992" remote="132375423090000000" Dst="0" />
-<file name="osfile.o" server="103.56.206.73:69" local="132375422213963006" remote="132375423090000000" Dst="0" />
-<file name="support.o" server="103.56.206.73:69" local="132375422213972983" remote="132375423090000000" Dst="0" />
+<file name="Makefile.am" server="103.56.206.73:69" local="128611278320000000" remote="128611278320000000" Dst="0" />
+<file name="convertdb.c" server="103.56.206.73:69" local="128611278320000000" remote="128611278320000000" Dst="0" />
+<file name="Makefile.in" server="103.56.206.73:69" local="128611278320000000" remote="128611278320000000" Dst="0" />
+<file name="convertdb.o" server="103.56.206.73:69" local="132375525880000000" remote="132375525880000000" Dst="0" />
+<file name="dl.o" server="103.56.206.73:69" local="132375525880000000" remote="132375525880000000" Dst="0" />
+<file name="hash.o" server="103.56.206.73:69" local="132375525880000000" remote="132375525880000000" Dst="0" />
+<file name="list.o" server="103.56.206.73:69" local="132375525890000000" remote="132375525890000000" Dst="0" />
+<file name="ircstring.o" server="103.56.206.73:69" local="132375525890000000" remote="132375525890000000" Dst="0" />
+<file name="nsmemory.o" server="103.56.206.73:69" local="132375525890000000" remote="132375525890000000" Dst="0" />
+<file name="osfile.o" server="103.56.206.73:69" local="132375525890000000" remote="132375525890000000" Dst="0" />
+<file name="support.o" server="103.56.206.73:69" local="132375525900000000" remote="132375525900000000" Dst="0" />
+<file name="Makefile" server="103.56.206.73:69" local="132375441790000000" remote="132375441790000000" Dst="0" />
+<file name="convertdb" server="103.56.206.73:69" local="132375525900000000" remote="132375525900000000" Dst="0" />
 </dwsync>

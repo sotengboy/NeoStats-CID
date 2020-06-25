@@ -181,8 +181,6 @@ AC_CHECK_FUNCS( socket \
                 signal \
                 getpwuid \
                 geteuid \
-                getuid\
-                getsid\
                 dlopen \
                 utime \
                 sigsetjmp \

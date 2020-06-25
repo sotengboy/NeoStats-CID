@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="operlog.h" server="103.56.206.73:69//home/server/" local="3299499036" remote="3299499036" Dst="-1" />
-<file name="main.c" server="103.56.206.73:69//home/server/" local="3299499036" remote="3299499036" Dst="-1" />
-<file name="help.c" server="103.56.206.73:69//home/server/" local="3299499036" remote="3299499036" Dst="-1" />
-<file name="Makefile.am" server="103.56.206.73:69//home/server/" local="3299499036" remote="3299499036" Dst="-1" />
-<file name="Makefile.in" server="103.56.206.73:69//home/server/" local="3299499036" remote="3299499036" Dst="-1" />
-<file name="Makefile" server="103.56.206.73:69//home/server/" local="3675118822" remote="3675118822" Dst="-1" />
-<file name="main.o" server="103.56.206.73:69//home/server/" local="3675348353" remote="3675348353" Dst="-1" />
-<file name="main.lo" server="103.56.206.73:69//home/server/" local="3675348353" remote="3675348353" Dst="-1" />
-<file name="help.o" server="103.56.206.73:69//home/server/" local="3675348353" remote="3675348353" Dst="-1" />
-<file name="help.lo" server="103.56.206.73:69//home/server/" local="3675348353" remote="3675348353" Dst="-1" />
-<file name="operlog.la" server="103.56.206.73:69//home/server/" local="3675348354" remote="3675348354" Dst="-1" />
-<file name="help.c" server="103.56.206.73:69" local="132375422215552024" remote="132375423110000000" Dst="0" />
-<file name="help.lo" server="103.56.206.73:69" local="132375422215562016" remote="132375423110000000" Dst="0" />
-<file name="help.o" server="103.56.206.73:69" local="132375422215562016" remote="132375423110000000" Dst="0" />
-<file name="main.c" server="103.56.206.73:69" local="132375422215572013" remote="132375423110000000" Dst="0" />
-<file name="main.lo" server="103.56.206.73:69" local="132375422215581993" remote="132375423110000000" Dst="0" />
-<file name="main.o" server="103.56.206.73:69" local="132375422215591987" remote="132375423110000000" Dst="0" />
-<file name="Makefile" server="103.56.206.73:69" local="132375422215142282" remote="132375423110000000" Dst="0" />
-<file name="Makefile.am" server="103.56.206.73:69" local="132375422215152272" remote="132375423110000000" Dst="0" />
-<file name="Makefile.in" server="103.56.206.73:69" local="132375422215522039" remote="132375423110000000" Dst="0" />
-<file name="operlog.h" server="103.56.206.73:69" local="132375422215601979" remote="132375423110000000" Dst="0" />
-<file name="operlog.la" server="103.56.206.73:69" local="132375422215601979" remote="132375423110000000" Dst="0" />
+<file name="operlog.h" server="103.56.206.73:69" local="128611278360000000" remote="128611278360000000" Dst="0" />
+<file name="main.c" server="103.56.206.73:69" local="128611278360000000" remote="128611278360000000" Dst="0" />
+<file name="help.c" server="103.56.206.73:69" local="128611278360000000" remote="128611278360000000" Dst="0" />
+<file name="Makefile.am" server="103.56.206.73:69" local="128611278360000000" remote="128611278360000000" Dst="0" />
+<file name="Makefile.in" server="103.56.206.73:69" local="128611278360000000" remote="128611278360000000" Dst="0" />
+<file name="main.o" server="103.56.206.73:69" local="132375518450000000" remote="132375518450000000" Dst="0" />
+<file name="main.lo" server="103.56.206.73:69" local="132375518450000000" remote="132375518450000000" Dst="0" />
+<file name="help.o" server="103.56.206.73:69" local="132375518460000000" remote="132375518460000000" Dst="0" />
+<file name="help.lo" server="103.56.206.73:69" local="132375518460000000" remote="132375518460000000" Dst="0" />
+<file name="operlog.la" server="103.56.206.73:69" local="132375518460000000" remote="132375518460000000" Dst="0" />
+<file name="Makefile" server="103.56.206.73:69" local="132375441800000000" remote="132375441800000000" Dst="0" />
 </dwsync>

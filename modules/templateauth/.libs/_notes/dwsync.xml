@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="main.o" server="103.56.206.73:69//home/server/" local="3675348355" remote="3675348355" Dst="-1" />
-<file name="templateauth.so" server="103.56.206.73:69//home/server/" local="3675348356" remote="3675348356" Dst="-1" />
-<file name="templateauth.a" server="103.56.206.73:69//home/server/" local="3675348356" remote="3675348356" Dst="-1" />
-<file name="templateauth.lai" server="103.56.206.73:69//home/server/" local="3675348356" remote="3675348356" Dst="-1" />
-<file name="templateauth.la" server="103.56.206.73:69//home/server/" local="3675348356" remote="3675348356" Dst="-1" />
-<file name="main.o" server="103.56.206.73:69" local="132375422218979915" remote="132375423170000000" Dst="0" />
-<file name="templateauth.a" server="103.56.206.73:69" local="132375422218989916" remote="132375423170000000" Dst="0" />
-<file name="templateauth.la" server="103.56.206.73:69" local="132375422218989916" remote="132375423170000000" Dst="0" />
-<file name="templateauth.lai" server="103.56.206.73:69" local="132375422218999897" remote="132375423170000000" Dst="0" />
-<file name="templateauth.so" server="103.56.206.73:69" local="132375422219009902" remote="132375423170000000" Dst="0" />
+<file name="main.o" server="103.56.206.73:69" local="132375518480000000" remote="132375518480000000" Dst="0" />
+<file name="templateauth.so" server="103.56.206.73:69" local="132375518480000000" remote="132375518480000000" Dst="0" />
+<file name="templateauth.a" server="103.56.206.73:69" local="132375518480000000" remote="132375518480000000" Dst="0" />
+<file name="templateauth.lai" server="103.56.206.73:69" local="132375518480000000" remote="132375518480000000" Dst="0" />
+<file name="templateauth.la" server="103.56.206.73:69" local="132375518480000000" remote="132375518480000000" Dst="0" />
 </dwsync>

@@ -229,13 +229,13 @@ static serverstat *new_server_stat( const char *name )
  *  @return pointer to stat found or NULL if none
  */
 
-static serverstat *findserverstats( const char *sid )
+static serverstat *findserverstats( const char *name )
 {
 	serverstat *stats;
 
-	stats = ( serverstat * )hnode_find( serverstathash, sid );
+	stats = ( serverstat * )hnode_find( serverstathash, name );
 	if( !stats )
-		dlog( DEBUG2, "findserverstats (%s) - not found", sid );
+		dlog( DEBUG2, "findserverstats (%s) - not found", name );
 	return stats;
 }
 
@@ -329,10 +329,10 @@ static int AddServerStat( Client *s, void *v )
 {
 	serverstat *ss;
 
-	dlog( DEBUG2, "AddServerStat (%s)", s->sid );
-	ss = findserverstats( s->sid );
+	dlog( DEBUG2, "AddServerStat (%s)", s->name );
+	ss = findserverstats( s->name );
 	if( !ss )
-		ss = new_server_stat( s->sid );
+		ss = new_server_stat( s->name );
 	ss->ts_start = ss->ts_lastseen = me.now;
 	AddNetworkServer();
 	SetServerModValue( s, ( void * )ss );

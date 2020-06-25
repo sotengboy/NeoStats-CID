@@ -1,29 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="GeoIP.Plo" server="103.56.206.73:69//home/server/" local="3674540656" remote="3674540656" Dst="-1" />
-<file name="GeoIPBitReader.Plo" server="103.56.206.73:69//home/server/" local="3674540655" remote="3674540655" Dst="-1" />
-<file name="GeoIPCity.Plo" server="103.56.206.73:69//home/server/" local="3674540655" remote="3674540655" Dst="-1" />
-<file name="channel.Plo" server="103.56.206.73:69//home/server/" local="3675348341" remote="3675348341" Dst="-1" />
-<file name="htmlstats.Plo" server="103.56.206.73:69//home/server/" local="3675348339" remote="3675348339" Dst="-1" />
-<file name="network.Plo" server="103.56.206.73:69//home/server/" local="3675348342" remote="3675348342" Dst="-1" />
-<file name="server.Plo" server="103.56.206.73:69//home/server/" local="3675348343" remote="3675348343" Dst="-1" />
-<file name="ss_help.Plo" server="103.56.206.73:69//home/server/" local="3675348337" remote="3675348337" Dst="-1" />
-<file name="stats.Plo" server="103.56.206.73:69//home/server/" local="3675348337" remote="3675348337" Dst="-1" />
-<file name="statserv.Plo" server="103.56.206.73:69//home/server/" local="3675348338" remote="3675348338" Dst="-1" />
-<file name="tld.Plo" server="103.56.206.73:69//home/server/" local="3675348340" remote="3675348340" Dst="-1" />
-<file name="user.Plo" server="103.56.206.73:69//home/server/" local="3675348341" remote="3675348341" Dst="-1" />
-<file name="version.Plo" server="103.56.206.73:69//home/server/" local="3675348344" remote="3675348344" Dst="-1" />
-<file name="channel.Plo" server="103.56.206.73:69" local="132375422217770662" remote="132375423150000000" Dst="0" />
-<file name="GeoIP.Plo" server="103.56.206.73:69" local="132375422217730694" remote="132375423150000000" Dst="0" />
-<file name="GeoIPBitReader.Plo" server="103.56.206.73:69" local="132375422217740685" remote="132375423150000000" Dst="0" />
-<file name="GeoIPCity.Plo" server="103.56.206.73:69" local="132375422217750677" remote="132375423150000000" Dst="0" />
-<file name="htmlstats.Plo" server="103.56.206.73:69" local="132375422217770662" remote="132375423150000000" Dst="0" />
-<file name="network.Plo" server="103.56.206.73:69" local="132375422217780655" remote="132375423150000000" Dst="0" />
-<file name="server.Plo" server="103.56.206.73:69" local="132375422217790652" remote="132375423150000000" Dst="0" />
-<file name="ss_help.Plo" server="103.56.206.73:69" local="132375422217800644" remote="132375423150000000" Dst="0" />
-<file name="stats.Plo" server="103.56.206.73:69" local="132375422217810636" remote="132375423150000000" Dst="0" />
-<file name="statserv.Plo" server="103.56.206.73:69" local="132375422217810636" remote="132375423150000000" Dst="0" />
-<file name="tld.Plo" server="103.56.206.73:69" local="132375422217820634" remote="132375423150000000" Dst="0" />
-<file name="user.Plo" server="103.56.206.73:69" local="132375422217830628" remote="132375423150000000" Dst="0" />
-<file name="version.Plo" server="103.56.206.73:69" local="132375422217840621" remote="132375423150000000" Dst="0" />
+<file name="GeoIP.Plo" server="103.56.206.73:69" local="132361694560000000" remote="132361694560000000" Dst="0" />
+<file name="GeoIPBitReader.Plo" server="103.56.206.73:69" local="132361694550000000" remote="132361694550000000" Dst="0" />
+<file name="GeoIPCity.Plo" server="103.56.206.73:69" local="132361694550000000" remote="132361694550000000" Dst="0" />
+<file name="channel.Plo" server="103.56.206.73:69" local="132375518320000000" remote="132375518320000000" Dst="0" />
+<file name="htmlstats.Plo" server="103.56.206.73:69" local="132375518300000000" remote="132375518300000000" Dst="0" />
+<file name="network.Plo" server="103.56.206.73:69" local="132375518340000000" remote="132375518340000000" Dst="0" />
+<file name="server.Plo" server="103.56.206.73:69" local="132375518350000000" remote="132375518350000000" Dst="0" />
+<file name="ss_help.Plo" server="103.56.206.73:69" local="132375518280000000" remote="132375518280000000" Dst="0" />
+<file name="stats.Plo" server="103.56.206.73:69" local="132375518290000000" remote="132375518290000000" Dst="0" />
+<file name="statserv.Plo" server="103.56.206.73:69" local="132375518290000000" remote="132375518290000000" Dst="0" />
+<file name="tld.Plo" server="103.56.206.73:69" local="132375518310000000" remote="132375518310000000" Dst="0" />
+<file name="user.Plo" server="103.56.206.73:69" local="132375518330000000" remote="132375518330000000" Dst="0" />
+<file name="version.Plo" server="103.56.206.73:69" local="132375518350000000" remote="132375518350000000" Dst="0" />
 </dwsync>

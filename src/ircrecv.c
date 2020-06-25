@@ -1685,15 +1685,15 @@ void do_credits( const char *nick, const char *remoteserver )
  *  @return none
  */
 
-void do_stats( const char *uid, const char *what )
+void do_stats( const char *nick, const char *what )
 {
 	Client *u;
 
 	SET_SEGV_LOCATION();
-	u = FindUser( uid );
+	u = FindUser( nick );
 	if( u == NULL )
 	{
-		nlog( LOG_WARNING, "do_stats: message from unknown user %s", uid );
+		nlog( LOG_WARNING, "do_stats: message from unknown user %s", nick );
 		return;
 	}
 	switch( *what )

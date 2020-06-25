@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="main.o" server="103.56.206.73:69//home/server/" local="3675348349" remote="3675348349" Dst="-1" />
-<file name="help.o" server="103.56.206.73:69//home/server/" local="3675348350" remote="3675348350" Dst="-1" />
-<file name="textserv.so" server="103.56.206.73:69//home/server/" local="3675348351" remote="3675348351" Dst="-1" />
-<file name="textserv.a" server="103.56.206.73:69//home/server/" local="3675348351" remote="3675348351" Dst="-1" />
-<file name="textserv.lai" server="103.56.206.73:69//home/server/" local="3675348351" remote="3675348351" Dst="-1" />
-<file name="textserv.la" server="103.56.206.73:69//home/server/" local="3675348351" remote="3675348351" Dst="-1" />
-<file name="help.o" server="103.56.206.73:69" local="132375422219139816" remote="132375423170000000" Dst="0" />
-<file name="main.o" server="103.56.206.73:69" local="132375422219149819" remote="132375423170000000" Dst="0" />
-<file name="textserv.a" server="103.56.206.73:69" local="132375422219169798" remote="132375423170000000" Dst="0" />
-<file name="textserv.la" server="103.56.206.73:69" local="132375422219179801" remote="132375423170000000" Dst="0" />
-<file name="textserv.lai" server="103.56.206.73:69" local="132375422219189780" remote="132375423170000000" Dst="0" />
-<file name="textserv.so" server="103.56.206.73:69" local="132375422219199774" remote="132375423170000000" Dst="0" />
+<file name="main.o" server="103.56.206.73:69" local="132375518410000000" remote="132375518410000000" Dst="0" />
+<file name="help.o" server="103.56.206.73:69" local="132375518420000000" remote="132375518420000000" Dst="0" />
+<file name="textserv.so" server="103.56.206.73:69" local="132375518430000000" remote="132375518430000000" Dst="0" />
+<file name="textserv.a" server="103.56.206.73:69" local="132375518430000000" remote="132375518430000000" Dst="0" />
+<file name="textserv.lai" server="103.56.206.73:69" local="132375518430000000" remote="132375518430000000" Dst="0" />
+<file name="textserv.la" server="103.56.206.73:69" local="132375518430000000" remote="132375518430000000" Dst="0" />
 </dwsync>

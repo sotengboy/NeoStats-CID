@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="cs.h" server="103.56.206.73:69//home/server/" local="3299499028" remote="3299499028" Dst="-1" />
-<file name="cs.c" server="103.56.206.73:69//home/server/" local="3299499028" remote="3299499028" Dst="-1" />
-<file name="Makefile.am" server="103.56.206.73:69//home/server/" local="3299499027" remote="3299499027" Dst="-1" />
-<file name="cs_help.c" server="103.56.206.73:69//home/server/" local="3299499028" remote="3299499028" Dst="-1" />
-<file name="Makefile.in" server="103.56.206.73:69//home/server/" local="3299499027" remote="3299499027" Dst="-1" />
-<file name="Makefile" server="103.56.206.73:69//home/server/" local="3675118821" remote="3675118821" Dst="-1" />
-<file name="cs.o" server="103.56.206.73:69//home/server/" local="3675348333" remote="3675348333" Dst="-1" />
-<file name="cs.lo" server="103.56.206.73:69//home/server/" local="3675348333" remote="3675348333" Dst="-1" />
-<file name="cs_help.o" server="103.56.206.73:69//home/server/" local="3675348333" remote="3675348333" Dst="-1" />
-<file name="cs_help.lo" server="103.56.206.73:69//home/server/" local="3675348333" remote="3675348333" Dst="-1" />
-<file name="connectserv.la" server="103.56.206.73:69//home/server/" local="3675348334" remote="3675348334" Dst="-1" />
-<file name="connectserv.la" server="103.56.206.73:69" local="132375422212555875" remote="132375423060000000" Dst="0" />
-<file name="cs.c" server="103.56.206.73:69" local="132375422212565868" remote="132375423060000000" Dst="0" />
-<file name="cs.h" server="103.56.206.73:69" local="132375422212575862" remote="132375423060000000" Dst="0" />
-<file name="cs.lo" server="103.56.206.73:69" local="132375422212575862" remote="132375423060000000" Dst="0" />
-<file name="cs.o" server="103.56.206.73:69" local="132375422212585859" remote="132375423060000000" Dst="0" />
-<file name="cs_help.c" server="103.56.206.73:69" local="132375422212595850" remote="132375423060000000" Dst="0" />
-<file name="cs_help.lo" server="103.56.206.73:69" local="132375422212605845" remote="132375423060000000" Dst="0" />
-<file name="cs_help.o" server="103.56.206.73:69" local="132375422212605845" remote="132375423060000000" Dst="0" />
-<file name="Makefile" server="103.56.206.73:69" local="132375422212515904" remote="132375423060000000" Dst="0" />
-<file name="Makefile.am" server="103.56.206.73:69" local="132375422212535885" remote="132375423060000000" Dst="0" />
-<file name="Makefile.in" server="103.56.206.73:69" local="132375422212535885" remote="132375423060000000" Dst="0" />
+<file name="cs.h" server="103.56.206.73:69" local="128611278280000000" remote="128611278280000000" Dst="0" />
+<file name="cs.c" server="103.56.206.73:69" local="128611278280000000" remote="128611278280000000" Dst="0" />
+<file name="Makefile.am" server="103.56.206.73:69" local="128611278270000000" remote="128611278270000000" Dst="0" />
+<file name="cs_help.c" server="103.56.206.73:69" local="128611278280000000" remote="128611278280000000" Dst="0" />
+<file name="Makefile.in" server="103.56.206.73:69" local="128611278270000000" remote="128611278270000000" Dst="0" />
+<file name="cs.o" server="103.56.206.73:69" local="132375518240000000" remote="132375518240000000" Dst="0" />
+<file name="cs.lo" server="103.56.206.73:69" local="132375518240000000" remote="132375518240000000" Dst="0" />
+<file name="cs_help.o" server="103.56.206.73:69" local="132375518240000000" remote="132375518240000000" Dst="0" />
+<file name="cs_help.lo" server="103.56.206.73:69" local="132375518240000000" remote="132375518240000000" Dst="0" />
+<file name="connectserv.la" server="103.56.206.73:69" local="132375518250000000" remote="132375518250000000" Dst="0" />
+<file name="Makefile" server="103.56.206.73:69" local="132375441800000000" remote="132375441800000000" Dst="0" />
 </dwsync>

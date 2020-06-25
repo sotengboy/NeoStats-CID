@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="chartables.o" server="103.56.206.73:69//home/server/" local="3675118995" remote="3675118995" Dst="-1" />
-<file name="get.o" server="103.56.206.73:69//home/server/" local="3675118995" remote="3675118995" Dst="-1" />
-<file name="pcre.o" server="103.56.206.73:69//home/server/" local="3675118998" remote="3675118998" Dst="-1" />
-<file name="study.o" server="103.56.206.73:69//home/server/" local="3675119001" remote="3675119001" Dst="-1" />
-<file name="libpcre.a" server="103.56.206.73:69//home/server/" local="3675119001" remote="3675119001" Dst="-1" />
-<file name="libpcre.la" server="103.56.206.73:69//home/server/" local="3675119001" remote="3675119001" Dst="-1" />
-<file name="chartables.o" server="103.56.206.73:69" local="132375422212046189" remote="132375423050000000" Dst="0" />
-<file name="get.o" server="103.56.206.73:69" local="132375422212056183" remote="132375423050000000" Dst="0" />
-<file name="libpcre.a" server="103.56.206.73:69" local="132375422212066175" remote="132375423050000000" Dst="0" />
-<file name="libpcre.la" server="103.56.206.73:69" local="132375422212076171" remote="132375423050000000" Dst="0" />
-<file name="pcre.o" server="103.56.206.73:69" local="132375422212096153" remote="132375423050000000" Dst="0" />
-<file name="study.o" server="103.56.206.73:69" local="132375422212106153" remote="132375423050000000" Dst="0" />
+<file name="chartables.o" server="103.56.206.73:69" local="132375524630000000" remote="132375524630000000" Dst="0" />
+<file name="get.o" server="103.56.206.73:69" local="132375524640000000" remote="132375524640000000" Dst="0" />
+<file name="pcre.o" server="103.56.206.73:69" local="132375524670000000" remote="132375524670000000" Dst="0" />
+<file name="study.o" server="103.56.206.73:69" local="132375524700000000" remote="132375524700000000" Dst="0" />
+<file name="libpcre.a" server="103.56.206.73:69" local="132375524700000000" remote="132375524700000000" Dst="0" />
+<file name="libpcre.la" server="103.56.206.73:69" local="132375524700000000" remote="132375524700000000" Dst="0" />
 </dwsync>

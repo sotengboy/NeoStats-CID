@@ -603,9 +603,10 @@ void send_cmode( const char *server, const char *user, const char *chan, const c
 	send_cmd( ":%s %s %s %s %s", user, MSGTOK( MODE ), chan, mode, args );
 }
 
-void send_nick( const char *nick, const unsigned long ts, const char *newmode, const char *ident, const char *host, const char *server, const char *realname )
+void send_nick( const char *nick, const unsigned long ts, const char *newmode, const char *ident, const char *host, const char *uid, const char *server, const char *realname )
 {
-	send_cmd( "%s %s 1 %lu %s %s %s 0 %s * :%s", MSGTOK( NICK ), nick, ts, ident, host, server, newmode, realname );
+//  UID nickname hopcount timestamp username hostname uid servicestamp umodes virthost cloakedhost ip :gecos
+	send_cmd( "UID %s 1 %lu %s %s %s 0 %s %s %s * :%s", MSGTOK( NICK ), nick, ts, ident, host, uid, server, newmode, realname );
 }
 
 void send_smo( const char *source, const char *umodetarget, const char *msg )
@@ -816,9 +817,9 @@ static void m_nick( char *origin, char **argv, int argc, int srv )
  *  @return none
  */
 
-static void m_eos( char *sid, char **argv, int argc, int srv )
+static void m_eos( char *origin, char **argv, int argc, int srv )
 {
-	do_eos( sid );
+	do_eos( origin );
 }
     
 /** m_sjoin

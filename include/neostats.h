@@ -502,7 +502,9 @@ typedef enum NS_TRANSFER {
 } NS_TRANSFER;
 
 #define SEGV_LOCATION_BUFSIZE	255
-#define SET_SEGV_LOCATION() ircsnprintf( segv_location, SEGV_LOCATION_BUFSIZE, "%s %d %s", __FILE__, __LINE__, __PRETTY_FUNCTION__ ); 
+#define SET_SEGV_LOCATION() \
+	segv_location[0]='\0'; \
+	ircsnprintf(segv_location,SEGV_LOCATION_BUFSIZE,"File %s Line %d function %s", __FILE__, __LINE__, __PRETTY_FUNCTION__); 
 #define SET_SEGV_LOCATION_EXTRA( debug_text ) ircsnprintf( segv_location, SEGV_LOCATION_BUFSIZE, "%s %d %s %s", __FILE__, __LINE__, __PRETTY_FUNCTION__, (debug_text) ); 
 #define CLEAR_SEGV_LOCATION() segv_location[0]='\0';
 
@@ -564,6 +566,8 @@ typedef struct User {
  *  
  */
 typedef struct Client {
+	char *uid;
+	char *sid;
 	User *user;
 	Server *server;
 	char name[MAXNICK];
@@ -581,8 +585,6 @@ typedef struct Client {
 	void *modvalue[NUM_MODULES];
 	OS_SOCKET fd;
 	int port;
-    char *sid;
-    char *uid;
 	struct Sock *sock;
 } Client; 
 
@@ -1395,13 +1397,13 @@ EXPORTFUNC int irc_ctcp_unhandled_rpl( const Bot *botptr, const Client *target, 
 EXPORTFUNC int GenerateBotNick( char *nickbuf, size_t stublen, int alphacount, int numcount);
 
 /* users.c */
-EXPORTFUNC Client *FindUser( const char *uid );
+EXPORTFUNC Client *FindUser( const char *nick );
 EXPORTFUNC int UserLevel( Client *u );
 
 /* server.c */
 EXPORTFUNC Client *FindServer( const char *sid );
 
-EXPORTFUNC Client *FindClient( const char *uid );
+EXPORTFUNC Client *FindClient( const char *name );
 
 /* chans.c */
 EXPORTFUNC Channel *FindChannel( const char *chan );
